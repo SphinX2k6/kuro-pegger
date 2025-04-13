@@ -45,7 +45,7 @@ Deserve to be archived.
 
 ### Screenshot
 
-![kuro-pegger in action](https://i.ibb.co/ycqByBn/image-1.png)
+![kuro-pegger in action](https://raw.githubusercontent.com/SphinX2k6/kuro-pegger/refs/heads/main/image-1.png)
 
 ---
 
